@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://faqe-norvegjeze-5cb4ub.teleporthq.app/sitemap.xml
